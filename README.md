@@ -3,6 +3,8 @@
 
 # Resources
 
+- [SatCLIP](https://github.com/microsoft/satclip)
+
 ## Papers
 - [Geolocation Representation from Large Language Models Are Generic Enhancers for Spatio-Temporal Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33879)
 
@@ -17,3 +19,4 @@
     - This dataset could be very useful, since it has the coordinates and time of observation of more species.
     - When downloading this dataset use the "SIMPLE" version, which has all the dataset, we can also use the "CUBE" version to modify the query and do custom aggregations before downloading the data.
 - [STAC API Foundation Specifications](https://github.com/radiantearth/stac-api-spec)
+
