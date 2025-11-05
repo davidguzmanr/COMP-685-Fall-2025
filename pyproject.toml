@@ -27,6 +27,7 @@ dependencies = [
     "tokenizers>=0.15",
     "chronos-forecasting==2.0.0",
     "duckdb>=1.4.1",
+    "jupyterlab>=4.4.10",
 ]
 
 [dependency-groups]
