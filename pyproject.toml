@@ -27,6 +27,9 @@ dependencies = [
     "tokenizers>=0.15",
     "chronos-forecasting==2.0.0",
     "duckdb>=1.4.1",
+    "fme>=2025.10.0",
+    "cfgrib>=0.9.15.1",
+    "eccodes>=2.44.0",
 ]
 
 [dependency-groups]
