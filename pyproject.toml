@@ -26,6 +26,7 @@ dependencies = [
     "transformers>=4.54,<4.57",
     "tokenizers>=0.15",
     "chronos-forecasting==2.0.0",
+    "duckdb>=1.4.1",
 ]
 
 [dependency-groups]
