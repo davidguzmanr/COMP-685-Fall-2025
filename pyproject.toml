@@ -32,6 +32,8 @@ dependencies = [
     "cfgrib>=0.9.15.1",
     "eccodes>=2.44.0",
     "cdsapi>=0.7.7",
+    "geopandas>=0.14.4",
+    "shapely>=1.8.5.post1",
 ]
 
 [dependency-groups]
