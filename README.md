@@ -11,6 +11,9 @@
 - [Tracking multi-generational colonization of the breeding grounds by monarch butterflies in eastern North America](https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2013.1087#purchaseArea)
     - See the heatmaps they have with the probabilities of ocurrence in North America throughout the breeding season.
 - [Mapping migration habitat for western monarch butterflies reveals need for public-private approach to conservation](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2024.1460363/full)
+- [Deep Multi-modal Species Occupancy Modeling](https://www.biorxiv.org/content/10.1101/2025.09.06.674602v2)
+    - It has relevant information regarding presence-only data (like iNaturalist) and species distribution models. Also it cites other relevant papers that we should include.
+- [Spatial Implicit Neural Representations for Global-Scale Species Mapping](https://arxiv.org/abs/2306.02564)
 
 
 ## Datasets
