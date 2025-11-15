@@ -29,3 +29,6 @@
 - [STAC API Foundation Specifications](https://github.com/radiantearth/stac-api-spec)
 - [Monarch Watch](https://www.gbif.org/dataset/cf7d6c01-309b-4545-8319-3d53b1e8bfd0)
 - [Movebank's data repository](https://datarepository.movebank.org/home):  animal tracking datasets
+- [iNaturalist dataset 2018](https://github.com/visipedia/inat_comp/tree/master/2018): Species image classification used by SatCLIP
+- [A global dataset of air temperature](https://figshare.com/collections/_/4081802): Temperature dataset used by SatCLIP
+- 
